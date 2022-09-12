@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1527769929977-c341ee9f2033?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGJhY2tncm91bmQlMjBpbWFnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(243, 239, 9, 0.849);
+}
+.fair{
+    width: 380px;
+    height: 380px;
+    background: rgb(13, 192, 123);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 30px;
+    
+}
+
+
+.demo{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+a{
+    float: right;
+    padding-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+#doll{
+    width: 190px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: blueviolet;
+}
+
+#doll1{
+    width: 180px;
+    height: 20px;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(245, 202, 9);
+
+}
